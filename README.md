@@ -37,3 +37,5 @@ Normal: comparison of empirical and theoretical Var(Y | X = x):
  1.0      7179       3.010133              3.0                     1.003378
  2.0      1576       3.000733              3.0                     1.000244
 ```
+
+![Alt text](/conditional_mean.png)
