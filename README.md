@@ -1,5 +1,5 @@
 # Bivariate-Student-t-distribution
-Study the properties of the bivariate Student's t distribution through simulation
+Study the properties of the bivariate [Student's t distribution](https://en.wikipedia.org/wiki/Multivariate_t-distribution) through simulation
 
 `python xbivariate_student_t.py` gives
 
