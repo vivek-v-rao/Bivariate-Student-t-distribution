@@ -38,4 +38,7 @@ Normal: comparison of empirical and theoretical Var(Y | X = x):
  2.0      1576       3.000733              3.0                     1.000244
 ```
 
+If (x,y) data has the bivariate Student's t distribution, the dependence of y on x is linear, as
+with the normal distribution, but the conditional variance of y given x rises with the deviation of x from its mean,
+as shown below. For the normal distribution the conditional variance is constant.
 ![Alt text](/conditional_mean.png)
